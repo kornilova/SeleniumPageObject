@@ -10,7 +10,7 @@ public class MainTestAssert {
 
     @Test
     public void method2(){
-        Assert.assertEquals(20, 5 + 5);
+        Assert.assertEquals(10, 5 + 5);
     }
     @Test
     public void method3() {
